@@ -1,0 +1,15 @@
+[project]
+name = "susrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "icecream>=2.1.10",
+    "langchain>=1.2.12",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-google-genai>=4.2.1",
+    "langchain-ollama>=1.0.1",
+    "langchain-text-splitters>=1.1.1",
+]
