@@ -1,1 +1,2 @@
-DATA_PATH = "/home/dew/Programas/RAGTest/data/"
+DATA_PATH = "./data/"
+DATA_PATHtwo = "./data/diabetes1.pdf"
