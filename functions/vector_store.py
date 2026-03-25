@@ -12,7 +12,6 @@ def add_to_chroma():
     )
 
     chunks = split_documents()
-
     chunk_ids = create_chunk_ids(chunks)
 
     try:
