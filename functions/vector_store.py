@@ -14,15 +14,19 @@ def add_to_chroma():
     chunks = split_documents()
     chunk_ids = create_chunk_ids(chunks)
 
+    print(f"Number of chunks created: {len(chunks)}\n\n")
+
+    print("Adding documents to vector store...\n\n")
+
     try:
         inserted_ids = vector_store.add_documents(documents=chunks, ids=chunk_ids)
     except Exception as e:
         print(f"Error adding documents to vector store: {e}")
         exit(1)
 
-    print(f"Inserted document IDs: {inserted_ids}")
+    print(f"Inserted document IDs: {len(inserted_ids)}")
 
-    vector_store.persist()
+
 
 
 def create_chunk_ids(chunks):
@@ -55,5 +59,12 @@ def create_chunk_ids(chunks):
     return chunk_ids
 
     
-    
-        
+
+def db_object():
+    vector_store = Chroma(
+        collection_name     = "SusDiabetes",
+        embedding_function  = create_embedding_model(),
+        persist_directory   = "./chroma_langchain_db",
+    )
+
+    return vector_store
