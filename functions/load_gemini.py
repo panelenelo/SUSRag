@@ -6,6 +6,7 @@ from google import genai
 load_dotenv()
 
 def load_gemini():
+    
     try:
         api_key = os.environ.get("GEMINI_API_KEY")
         if(api_key == None):
