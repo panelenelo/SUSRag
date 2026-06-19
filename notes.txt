@@ -1,0 +1,68 @@
+Perguntas:
+
+ - Quais os critérios diagnósticos dos tipo de Dibetes Mellitus(DM)
+ - Quais os tipos de DM e mecanismos fisiopatológicos.
+ - Qual a 1ª linha de tratamento para DM tipo 2 em pacientes
+obesos e com alteração da função renal.
+ - Qual papel da mudança de estilo de vida para ocontrole da
+diabetes mellitus.
+ - Quais as metas terapêuticas para o tratamento de DM tipo 1 sem
+complicações.
+ - Quando iniciar investigação de complicações crônicas em pacientes
+com DM.
+ - Exemplo de caso: Paciente obeso 52 anos com histórico de infarto
+agudo do miocárdio prévio, hipertenso e com DM tipo 2. Qual seria a
+droga de primeira linha do tratamento de DM para reduzir fator de
+risco cardio-vascular.
+ - Qual o critério diagnóstico de DM gestacional usando TOTG 75g.
+ - Exemplo de caso: Paciente 8 anos, sonolento, chega referindo dor
+abdominal intensa e vômito, apresenta hálito cetônico e glicêmia
+maior que 350mg por decilitro. Além da hidratação venosa, qual o
+próximo passo para manejo do paciente, se a hipótese diagnóstica é
+ceto acidose diabética.
+ - Qual a glicêmia tolerada para um paciente internado que é hipertenso
+diabético e acabou de ter um  AVC isquêmico.
+
+------------------------------------------------------------------------
+
+Fontes dos documentos:
+ - Diretrizes da Sociede Brasileira de Diabetes.
+
+Por quê esses artigos são suficientes:
+ - São diretrizes baseadas em estudos atualizados, com altos níveis
+de evidências, e as diretrizes são escritas pela maior autoridade
+nacional de diabetes.
+
+------------------------------------------------------------------------
+
+Tipos de perguntas e o que elas estão avaliando:
+ - Exemplos de caso(7, 9): Avalia a capacidade de manejo prático da
+aplicação, sua usabilidade em situações reais. Orientando profissionais.
+em situações clínicas do cotidiano.
+Avalia a capacidade da aplicação de retornar informações específicas dos
+documentos baseadas em situações reais informadas.
+ - Perguntas gerais(1,3,4,5,6,8,10): Avalia a capacidade da aplicação de
+retornar informações relevantes dos documentos.
+
+------------------------------------------------------------------------
+
+O que se espera das perguntas:
+ - Perguntas abrangentes(2): avaliar o modelo
+
+------------------------------------------------------------------------
+Ollama project running:
+
+ The app running uses a lot of langchain libraries. Some of them
+call on ollama for the models. Need to learn how these functions work,
+The way they call on ollama for a model and then has it running.
+
+Would be good to have the application running in a container, and 
+calls for ollama running in a different container.
+This ollama container sould have access to models in the computer,
+but not necessary for it to have permission to download other models.
+
+There is also the database, which should run on a different container.
+
+Should see also the Open WebUI to have an easy UI running the
+application.
+
