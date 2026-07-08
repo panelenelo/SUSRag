@@ -1,0 +1,169 @@
+Pergunta:
+Qual a glicêmia tolerada para um paciente internado que é hipertenso
+diabético e acabou de ter um  AVC isquêmico?
+
+Resposta:
+De acordo com os documentos fornecidos:
+
+- As atualizações da American Diabetes Association de 2023 adotam uma faixa-alvo glicêmica para pacientes hospitalizados não-críticos de **100–180 mg/dL**, alinhando-se às recomendações da SBD.
+- A Diretriz SBD (Recomendação R7) sugere meta de controle entre **100 a 180 mg/dL** em pacientes com hiperglicemia hospitalar não-críticos, para evitar hiper e hipoglicemias.
+- No contexto específico do acidente vascular cerebral agudo (AVC), o estudo clínico randomizado SHINE incluiu 1151 pacientes e descreveu ausência de benefícios nos desfechos funcionais com controle glicêmico intensivo (metas **80–130 mg/dL**) em comparação com o controle padrão, cujas metas para a faixa superior chegaram até **179 mg/dL**.
+--------------------------------------------------------------------
+
+Pergunta:
+Quais os criterios diagnósticos dos tipos de diabetes mellitus(DM)
+
+Resposta:
+*   **Critérios laboratoriais gerais para diagnóstico de Diabetes Mellitus (DM):**
+    *   Glicemia de jejum ≥ 126 mg/dl OU HbA1c ≥ 6,5% OU glicemia no TTGO-1h ≥ 209 mg/dl OU glicemia no TTGO-2h ≥ 200 mg/dl (R1). Se somente um exame estiver alterado como critério para diagnóstico, este deverá ser repetido.
+    *   Para estabelecimento do diagnóstico de DM recomenda-se simultaneamente haver glicemia de jejum maior ou igual a 126 mg/dl e HbA1c maior ou igual a 6,5% (R3).
+
+*   **Diagnóstico com sintomas típicos:**
+    *   Na presença de sintomas típicos de hiperglicemia ou crise hiperglicêmica, o diagnóstico pode ser estabelecido quando houver glicemia plasmática ao acaso ≥ 200 mg/dl (R2 - Classe I Nível C).
+*   **Sinais e sintomas:**
+    *   Típicos: Poliúria, Polidipsia, Polifagia, Perda de peso inexplicada, Desidratação.
+    *   Sugestivos: Noctúria, Visão turva, Cansaço, Infecções recorrentes (Candidíase e Periodontite), Má cicatrização de feridas, Albuminúria transitória em pacientes com DM1 com menos de 5 anos de doença.
+*   **Tabela 1:** Apresenta critérios para diagnóstico de DM e pré-diabetes sem distinção explícita entre tipos baseada nos valores laboratoriais fornecidos no contexto (apenas referência ao DM1 no Quadro 1 quanto a sinais sugestivos específicos).
+
+--------------------------------------------------------------------
+
+Pergunta:
+Quais os tipos de DM e mecanismos fisiopatológicos?
+
+Resposta:
+De acordo com o contexto fornecido:
+
+**Tipos de Diabetes (DM):**
+*   **DM 1:** Referenciado nos critérios de inclusão do PCDT, definido por sinais inequívocos de insulinoopenia somados à demonstração de hiperglicemia laboratorial. Códigos CID-10 relacionados ao DM1 são E10.x (ex: com coma, cetoacidose, complicações).
+*   **DM 2:** Referenciado nos cabeçalhos e em relação aos mecanismos fisiopatológicos descritos para pacientes diabéticos obesos/resistentes.
+
+**Mecanismos Fisiopatológicos:**
+*   **Para o DM1 (Diabetes Tipo 1):** O diagnóstico requer sinais de insulinoopenia combinados com hiperglicemia laboratorial conforme definição do item diagnóstico (não detalha mecanismos internos além da necessidade de confirmação diagnóstica).
+*   **Para o DM2:** Os mecanismos fisiopatológicos associados ao hipogonadismo são múltiplos, principalmente derivados da obesidade e da resistência à insulina, além da ação direta sobre as alterações do eixo gonadal masculino. A relação é inversamente proporcional ao controle glicêmico (menores níveis de hemoglobina glicada associado a níveis mais elevados de testosterona total). Laboratorialmente pode-se encontrar frequentemente ausência de elevação dos níveis das gonadotrofinas, apesar da atuação no eixo em diversos níveis.
+
+A duração e monitorização do tratamento devem considerar os critérios estabelecidos nos protocolos relacionados ao DM1 mencionados, incluindo verificação periódica das doses prescritas e uso de medicamentos conforme códigos CID-10 E10.x (ex: complicações renais, oftálmicas etc.).
+
+--------------------------------------------------------------------
+
+Pergunta:
+Qual a primeira linha de tratamento para DM tipo 2 em pacientes obesos e com alteração da função renal?
+
+Resposta:
+Não conseguiu responder
+
+--------------------------------------------------------------------
+
+Pergunta:
+Qual papel da mudança de estilo de vida para o controle da diabetes
+mellitus?
+
+Resposta:
+De acordo com as diretrizes da Sociedade Brasileira de Diabetes (SBD) apresentadas no contexto:
+
+*   **Recomendação General:** As medidas de estilo de vida devem ser recomendadas universalmente como base para o tratamento do diabetes em todas as fases, incluindo a terapia dialítica e durante todo o período do DM2.
+*   **Objetivo Principal:** A implementação visa melhorar o controle glicêmico e reduzir os riscos associados à doença.
+*   **Componentes Específicos da Mudança de Estilo de Vida (R2):** Intervenção nutricional focada no controle do peso, dieta saudável, atividade física, diminuição do tempo sentado, melhora da duração do sono, cessação do tabagismo e uso monitoramento contínuo da glicemia quando disponível.
+*   **Eficácia na Progressão/Prevención:** Em pacientes com pré-diabetes ou sobrepeso, as medidas de estilo de vida têm grande eficácia na prevenção da progressão para diabetes mellitus tipo 2 (DM2), superando o tratamento isolado por metformina e placebo em termos de redução do número necessário a tratar.
+*   **Intervenção Intensiva:** Para prevenir ou controlar progressivamente, deve-se atingir e manter uma redução de peso de pelo menos 7%, dieta saudável com baixa gordura e atividade física supervisionada (150 minutos/semana).
+
+--------------------------------------------------------------------
+
+Pergunta:
+Quais as metas terapêuticas para o tratamento de DM tipo 1 sem complicações?
+
+Resposta:
+Baseado exclusivamente no contexto fornecido:
+
+*   **HbA1c:** A meta geral recomendada é < 7,0% para todos os indivíduos com diabetes (classe I nível A), desde que não haja hipoglicemias graves e frequentes (Diretriz R1). Para crianças e adolescentes específicos, o contexto indica uma consideração de meta elevada (< 7,5%) quando aplicável a condições específicas como histórico de hipoglicemia ou falta de monitorização avançada (Quadro 2), embora existam também recomendações para busca da meta < 7,0% em casos com acesso à tecnologia de monitorização (R4).
+
+*   **Glicose Capilar:** São considerados os seguintes alvos:
+    *   Glicemia capilar em jejum entre 80-130 mg/dL.
+    *   Glicemias entre o início das refeições < 180 mg/dL (R6).
+
+*   **Condições de Complicações:** Para pacientes com metas menos rígidas devem ser considerados casos de menor expectativa de vida, ou comorbidades limitantes como neoplasia avançada, doença cardiovascular e diabetes renal do DM1 avançado (Quadro 3), o que excluiria este grupo da resposta "sem complicações".
+
+
+
+--------------------------------------------------------------------
+
+Pergunta:
+Quando iniciar investigação de complicações crônicas em pacientes com DM?
+
+Resposta:
+De acordo com as informações disponíveis no contexto fornecido:
+
+Para pacientes com Diabetes Mellitus tipo 1 (DM), as complicações crônicas devem ser rastreadas anualmente a partir do **5º ano de duração da doença**, podendo também ocorrer na puberdade ou diante de outra situação ao critério clínico.
+
+No que tinge à neuropatia periférica diabética (R3) em pacientes com DM2, o rastreio deve ser iniciado no momento do diagnóstico ("no momento do diagnóstico"). O contexto indica ainda a investigação adequada das complicações sistêmicas associadas ao diabetes diagnosticado, mas não especifica um prazo geral de início para outras complicações crônicas além da neuropatia (DM2) e duração/diagnóstico específicos citados acima.
+
+--------------------------------------------------------------------
+
+Pergunta:
+Exemplo de caso: Paciente obeso 52 anos, com histórico de infarto agudo do miocárdio prévio, hipertenso e com DM tipo 2. Qual seria a droga de primeira linha do tratamento de DM para reduzir fator de risco cardio-vascular?
+
+Resposta:
+Considerando o perfil do paciente obeso com DM2 e histórico de infarto (risco cardiovascular muito alto/correlacionado a DASCV estabelecida), conforme as diretrizes fornecidas:
+
+- **Perfil Clínico:** Adulto, risco alto ou muito alto (incluindo DASCV estabelecida/AMI anterior) + Obesidade/Sobrepeso.
+- **Diretriz Aplicável no Contexto:** Recomenda-se iniciar o tratamento com um AD1 com efeito redutor no peso (**preferível AR GLP-1**) em monoterapia, para redução de eventos cardiovasculares e melhora do controle glicêmico (Conforme seção "Com obesidade ou sobrepeso" - R12/R6 lógica aplicada ao risco alto).
+- **Alternativa:** Se o AR GLP-1 estiver indisponível ou não for bem tolerado, DEVE SER CONSIDERADO um iSGLT2 para redução do risco cardiovascular e melhora do controle glicêmico (Conforme R13/Recomendações gerais de evidências).
+- **Prioridade no Contexto:** O contexto indica preferência pelo fármaco redutor de peso com AR GLP-1 como opção inicial.
+
+**Resposta baseada estritamente nas informações fornecidas:**
+
+Para um paciente obeso, DM2 e risco cardiovascular alto/muito alto (incluindo DASCV estabelecida), a recomendação do contexto é iniciar o tratamento com um **AD1 com efeito redutor no peso**, preferencialmente **AR GLP-1** em monoterapia. Alternativamente, se os AR GLP-1 não estiverem disponíveis ou tolerados, considera-se um iSGLT2 para redução de risco cardiovascular e melhora do controle glicêmico.
+
+--------------------------------------------------------------------
+
+Pergunta:
+Qual o critério diagnóstico de DM gestacional usando TOTG 75g?
+
+Resposta:
+Com base na Diretriz da Sociedade Brasileira de Diabetes (SBD), os critérios diagnósticos para DM Gestacional usando TOTG com glicose anidra de 75 gramas são descritos nos trechos abaixo:
+
+**Parâmetro do Teste:**
+*   **Realização:** TOTAL ORAL DE TOLERÂNCIA À GLICOSE (TOTG).
+*   **Medições:** Glicemia plasmática em jejum, a 1 hora e a 2 horas após ingestão de glicose.
+*   **Tempo ideal para diagnóstico:** Entre a 24ª e a 28ª semana da gestação (R4; R5).
+*   **Preparatório recomendado:** Dieta sem restrição de carboidratos ou com, no mínimo, 150 g/dia nos 3 dias anteriores ao teste. Jejum obrigatório de 8 horas antes do exame (Nota Importante 1).
+
+**Critérios de Diagnóstico para DM Gestacional (DMG) segundo R5:**
+É estabelecido o diagnóstico quando pelo menos um dos seguintes valores estiver presente:
+*   **Jejuno:** ≥92 mg/dL e <126 mg/dL.
+*   **1 hora após ingestão:** ≥180 mg/dL.
+*   **2 horas após ingestão:** ≥153 mg/dL e <200 mg/dL (Tabela 3).
+
+**Observação importante sobre valores altos segundo R6:**
+Se, no rastreamento do DMG, o valor da glicemia a 2h estiver ≥ 200 mg/dL, deve ser considerado presença de Diabetes diagnosticado na gestação (**overt diabetes**) e **não de DM Gestacional**.
+
+--------------------------------------------------------------------
+
+Pergunta:
+Exemplo de caso: Paciente de 8 anos, sonolento, chega referindo dor abdominal intensa e vômito, apresenta hálito cetônico e glicêmia maior que 350mg por decilitro. Além de hidratação venosa, qual o próximo  passo para manejo do paciente, se a hipótese diagnóstica é ceto acidose diabética?
+
+Resposta:
+De acordo com os trechos fornecidos das diretrizes (R5), após iniciar a hidratação e correção de anomalias eletrolíticas usando fluidos intravenosos, o próximo passo recomendado é seguir com insulina IV em solução contendo glicose até que o ânion gap e os níveis de bicarbonato se normalizem. O texto destaca também que um vez diagnosticado (no caso da hipótese CAD), a base do tratamento envolve correção rápida de desidratação usando fluidos intravenosos seguida desta etapa insulinar para normalizar parâmetros metabólicos específicos, sendo o manejo considerado semelhante ao DA-CAD-E e DKA.
+
+
+--------------------------------------------------------------------
+
+Pergunta:
+Qual a glicemia tolerada para um paciente internado que é hipertenso
+e diabético e acabou de ter um avc esquemico?
+
+Resposta:
+Não posso responder a essa pergunta com base nos documentos fornecidos, pois o contexto apresenta recomendações distintas dependendo do diagnóstico de paciente crítico ou não-crítico (ex: Paciente Crítico definido como >140 mg/dL associado a piores desfechos; pacientes hospitalizados não críticos mencionando faixa-alvo de 100–180 mg/dL em diretrizes da ADA conforme citações no contexto), sendo necessário que o status clínico seja classificado para definir uma recomendação única.
+***
+k=7
+Com base estritamente no contexto fornecido das Diretrizes da Sociedade Brasileira de Diabetes, a recomendação para pacientes hospitalizados **não-críticos** é utilizar uma meta de controle glicêmico entre 100 e 180 mg/dL (Recomendação R7), alinhada às atualizações da American Diabetes Association mencionadas no texto.
+
+No que se refere especificamente ao paciente com acidente vascular cerebral agudo, o estudo clínico randomizado SHINE citado na diretriz descreveu a ausência de benefícios nos desfechos funcionais com controle glicêmico intensivo (metas 80-130 mg/dL) em comparação com controles padrão. A faixa-alvo de controlo padrão referenciada para fins comparativos no estudo foi até aproximadamente 179 mg/dL, enquanto a recomendação geral não-crítica adotada nas diretrizes atuais é entre 100 e 180 mg/dL (R7).
+
+Para pacientes internados que possam se enquadrar na categoria "não-crítico" com ou sem diabetes mellitus:
+*   **Meta de controle:** Entre 100 a 180 mg/dL.
+*   **Objetivo:** Evitar hiper e hipoglicemias (Recomendação R7).
+
+O contexto distingue pacientes em unidades críticas, onde é definido o critério de hiperglicemia hospitalar como glicemia acima de 140 mg/dL por estar associada a piores desfechos clínicos, mas não estipula uma faixa-alvo numérica diferente na seção crítica disponível no texto fornecido. Portanto, aplicam-se as diretrizes para pacientes não-críticos ou observa-se que controles intensivos mais rigorosos em AVC não mostraram benefícios adicionais nos estudos citados (SHINE).
+
+
+
